@@ -1,0 +1,2 @@
+101|Which component is an example of an unstructured data asset?|CSV Data Stream|SQL Database Table|JSON Document Array|Video Training Recording|D|Video recordings do not match a predefined database structural schema.|Module 02: Data Extraction & Cleaning
+102|What tool is optimal for building automated structural data transformations?|Excel Basic Font Tables|Power Query ETL Engine|Notepad Editors|Word Document Layouts|B|Power Query is built explicitly for extraction, transformation, and load operations.|Module 02: Data Extraction & Cleaning
