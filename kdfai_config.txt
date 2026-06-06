@@ -1,1 +1,1 @@
-STATUS=ACTIVE|PHONE=254741067075|NOTICE=|PROMO=|TRIAL=ON|MOCK_COUNT=20|VERSION=1.0.0|EMAIL=info.kdfai@gmail.com|TRACK_USERS=OFF|TOPICS=Module 01: Intro|Module 02: Extraction|Module 03: Exploration|Module 04: Financial|Module 05: Auditing|Module 06: Emerging
+STATUS=ACTIVE|PHONE=254142833213|NOTICE=|PROMO=|TRIAL=ON|MOCK_COUNT=20|VERSION=1.0.0|EMAIL=info.kdfai@gmail.com|TRACK_USERS=OFF|TOPICS=Module 01: Intro|Module 02: Extraction|Module 03: Exploration|Module 04: Financial|Module 05: Auditing|Module 06: Emerging
