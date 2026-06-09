@@ -1,0 +1,1 @@
+CAMS-FBM-001|FBM|What is the formula for calculating simple interest?|I = P * R * T|I = P / (R * T)|I = P + R + T|I = M * C ^ 2|A|Interest equals Principal times Rate times Time.|Level 1|ACTIVE
